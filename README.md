@@ -36,20 +36,20 @@ Responsive web design
 
 ## Built with
 ### Front-end
-React.JS
-Redux/Redux-thunk/Redux-form
-Materialize-css
+React.JS;  
+Redux/Redux-thunk/Redux-form;  
+Materialize-css;  
 
 ### Back-end
-express
-mongoDB
-mongoose
-passport-google-OAuth
-cookie-session
+express; 
+mongoDB; 
+mongoose; 
+passport-google-OAuth; 
+cookie-session; 
 
 ### external APIs
-Email provider:sendgrid
-Payment: Stripe
+Email provider:sendgrid; 
+Payment: Stripe; 
 
 ### Deployment
 Heroku
